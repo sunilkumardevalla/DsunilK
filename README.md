@@ -2,9 +2,9 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
-<video width="320" height="240" autoplay>
+<iframe width="320" height="240" autoplay>
   <source src="./gifs/video.mp4" type="video/mp4">
-</video>
+</iframe>
 
 <div align="center">
 
