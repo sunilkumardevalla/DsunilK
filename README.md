@@ -3,7 +3,9 @@
 </div>
 <div align="center" width="50">
 
-<img src="./gifs/github.gif" alt="Welcome!" width="300"/>
+<video width="320" height="240" autoplay>
+  <source src="./gifs/video.mp4" type="video/mp4">
+</video>
 
 </div>
 
